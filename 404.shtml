@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		<title>theo court | 404</title>
+		
+       	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" type="text/css" href="/assets/default.css">
+		
+
+	</head>
+	<body>
+
+		<div id="header">
+			<h1 style="display: inline-block"><a href="/">theo court</a></h1>
+		</div>
+
+
+		
+		<h2>404</h2>
+		<p>Oops! Looks like you followed a broken link. The page you were looking for can't be found.</p>
+
+
+
+		<div id="footer">
+
+			<div id="copyright">
+				<a href="/copyright">copyright</a> - made with &lt;3
+			</div>
+		</div>
+
+	</body>
+</html>
